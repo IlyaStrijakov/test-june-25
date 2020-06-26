@@ -8,3 +8,6 @@ describe('EDIT PROFILE', () => {
         browser.pause(2000);
     });
 }) 
+
+
+
